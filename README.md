@@ -20,7 +20,7 @@ This is just a normal Godot 3 project. Download it and open it with Godot >=3.5.
 - **Saving**: A very simple system to save and load variables to disc for persisting data between sessions. Better used for achievements, unlocks, and the like: if you want to make a full-on game save, look up a better and more comprehensive solution.
 
 # Can I use this for commercial purposes?
-Yes, but you cannot charge for the template by itself. You can make a game with the template and sell it, but you can't sell the template as-is.
+Yes.
 
 # How do I do X? / How does Y work?
 If something from the template is unclear, make an issue in GitHub and I'll and and update this readme (eventually).
