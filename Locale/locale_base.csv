@@ -1,0 +1,17 @@
+key,en,es
+,,
+OPTIONS_TITLE,"Options","Opciones"
+OPTIONS_FULLSCREEN,"Fullscreen","Pantalla completa"
+OPTIONS_FULLSCREEN_HINT,"The game occupies the whole screen.","El juego ocupa la pantalla completa."
+OPTIONS_RESOLUTION,"Resolution","Resolución"
+OPTIONS_RESOLUTION_HINT,"Screen resolution.","Resolución de pantalla."
+OPTIONS_FONT_SIZE,"Font size","Tamaño del texto"
+OPTIONS_FONT_SIZE_HINT,"UI text size.","Tamaño del texto en la interfaz."
+OPTIONS_LOCALE,"Language","Lenguaje"
+OPTIONS_LOCALE_HINT,"Game language.","Lenguaje del juego."
+OPTIONS_MUSIC,"Music volume","Volumen de música"
+OPTIONS_MUSIC_HINT,"Percentage of volume music will be played at.","Porcentaje de volumen al que se reproducirá la música."
+OPTIONS_SFX,"SFX volume","Volumen de efectos"
+OPTIONS_SFX_HINT,"Percentage of volume sound effects will be played at.","Porcentaje de volumen al que se reproducirán los efectos de sonido."
+OPTIONS_APPLY,"Apply changes","Aplicar cambios"
+OPTIONS_CANCEL,"Back","Volver"

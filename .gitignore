@@ -1,0 +1,6 @@
+# Ignora la carpeta de imports locales
+/.import
+# Ignora los ficheros translation generados a partir de los csv
+*.translation
+# Escenas de prueba hechas para desarrollar el template
+/Test

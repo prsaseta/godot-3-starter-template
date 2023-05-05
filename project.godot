@@ -1,0 +1,66 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=4
+
+_global_script_classes=[ {
+"base": "Reference",
+"class": "DistanceSorter",
+"language": "GDScript",
+"path": "res://Misc/DistanceSorter.gd"
+} ]
+_global_script_class_icons={
+"DistanceSorter": ""
+}
+
+[application]
+
+config/name="Godot3 Game Base"
+config/icon="res://icon.png"
+
+[autoload]
+
+GConfig="*res://Globals/GConfig.tscn"
+GConstants="*res://Globals/GConstants.tscn"
+GPause="*res://Globals/GPause.tscn"
+GUtils="*res://Globals/GUtils.tscn"
+GVars="*res://Globals/GVars.tscn"
+
+[display]
+
+window/size/width=1920
+window/size/height=1080
+window/size/resizable=false
+window/size/fullscreen=true
+window/stretch/mode="viewport"
+window/stretch/aspect="keep"
+
+[gui]
+
+common/drop_mouse_on_gui_input_disabled=true
+
+[input]
+
+pause={
+"deadzone": 0.5,
+"events": [ Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"alt":false,"shift":false,"control":false,"meta":false,"command":false,"pressed":false,"scancode":16777217,"physical_scancode":0,"unicode":0,"echo":false,"script":null)
+, Object(InputEventJoypadButton,"resource_local_to_scene":false,"resource_name":"","device":0,"button_index":11,"pressure":0.0,"pressed":false,"script":null)
+ ]
+}
+
+[locale]
+
+translations=PoolStringArray( "res://Locale/locale_base.en.translation", "res://Locale/locale_base.es.translation" )
+
+[physics]
+
+common/enable_pause_aware_picking=true
+
+[rendering]
+
+environment/default_environment="res://default_env.tres"
