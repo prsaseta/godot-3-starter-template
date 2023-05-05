@@ -23,4 +23,4 @@ This is just a normal Godot 3 project. Download it and open it with Godot >=3.5.
 Yes.
 
 # How do I do X? / How does Y work?
-If something from the template is unclear, make an issue in GitHub and I'll and and update this readme (eventually).
+If something from the template is unclear, make an issue in GitHub and I'll explain and update this readme (eventually).
