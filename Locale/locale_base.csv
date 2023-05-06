@@ -15,3 +15,8 @@ OPTIONS_SFX,"SFX volume","Volumen de efectos"
 OPTIONS_SFX_HINT,"Percentage of volume sound effects will be played at.","Porcentaje de volumen al que se reproducirán los efectos de sonido."
 OPTIONS_APPLY,"Apply changes","Aplicar cambios"
 OPTIONS_CANCEL,"Back","Volver"
+,,
+PAUSE_TEXT,"Pause","Pausa"
+PAUSE_CONTINUE,"Continue","Continuar"
+PAUSE_OPTIONS,"Options","Opciones"
+PAUSE_EXIT_DESKTOP,"Quit to desktop","Salir al escritorio"

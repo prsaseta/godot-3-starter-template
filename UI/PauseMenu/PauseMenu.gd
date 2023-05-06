@@ -3,7 +3,7 @@ extends PanelContainer
 signal pause_menu_opened
 signal pause_menu_closed
 
-onready var cancel_button_settings = $OptionsMenu/VBC/CancelButton
+onready var cancel_button_settings = $OptionsMenu.cancel_button
 onready var options_menu = $OptionsMenu
 onready var pause_container = $PauseVBoxContainer
 
